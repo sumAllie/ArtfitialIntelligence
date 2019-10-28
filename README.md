@@ -1,9 +1,9 @@
 # ArtfitialIntelligence
 人工智能课程作业
 
-#####EightDigit
+#### EightDigit
 There are still some errors in the climbing algorithm.
-#####AOStar
+#### AOStar
 refer to https://github.com/MohammadEzalden/AOStar
-#####gameTree
+#### gameTree
 There are no leafnodes without values which need to be concealed.
